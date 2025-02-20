@@ -152,5 +152,3 @@ pip install --upgrade streamlit  # Reinstall dependencies
 - Fork this repository and open a PR with your changes
 - Add unit tests for new features
 
-## 📄 License
-This project is licensed under the MIT License. See LICENSE for details.
